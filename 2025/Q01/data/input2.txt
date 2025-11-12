@@ -1,0 +1,3 @@
+Ardenlyr,Rythanox,Irynluth,Phyrcalyx,Lorndra,Brylcion,Zorfarin,Naradar,Drelendris,Xaralnor,Galralis,Rythanpyros,Brelxal,Quarneon,Aerxith,Mornjoris,Quengnar,Malithagrath,Myndxelor,Durnfarin
+
+L13,R11,L8,R9,L10,R15,L7,R7,L5,R10,L5,R5,L5,R8,L5,R14,L5,R11,L5,R14,L18,R13,L7,R6,L19,R13,L19,R8,L17

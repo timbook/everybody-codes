@@ -1,0 +1,3 @@
+Voraxgonn,Karthjor,Quorix,Xaralzar,Aelquin,Nyrixselor,Tharilasis,Shaemvoran,Palthwyris,Sarntal,Aureonar,Balthvel,Tirnarel,Gorathnarith,Malithnarith,Braefal,Rynther,Shaeljor,Ilmarkyr,Ascalzal,Nynylor,Tazxith,Quenzris,Krynnwyris,Quarnral,Adalor,Wynquin,Wynpyros,Wyrelor,Talgryph
+
+L8,R12,L48,R42,L17,R24,L38,R17,L40,R39,L22,R29,L49,R32,L16,R44,L29,R9,L47,R8,L5,R6,L5,R11,L5,R11,L5,R44,L5,R14,L5,R30,L5,R8,L5,R30,L5,R6,L5,R24,L27,R47,L35,R7,L13,R49,L32,R42,L10,R48,L31,R16,L18,R13,L26,R31,L34,R17,L48
