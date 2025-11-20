@@ -1,0 +1,29 @@
+Erymir,Urithzorin,Xarzorin,Xarlorath,Axalfeth,Nysskris,Nythkris,Zalindor,Nythgoril,Axalendris,Nysszorin,Zallorath,Selkquin,Axalkris,Nytharis,Nythmir,Eryendris,Adalindor,Adalgoril,Nyssmir,Nyssendris,Selkindor,Erasfeth,Erasaris,Nythendris,Zalaris,Erasindor,Xarmir,Xarkris,Erygoril,Urithfeth,Selklorath,Selkfeth,Erykris,Zalquin,Axalquin,Xarquin,Zalendris,Nyssindor,Adalendris,Eraszorin,Adalmir,Selkmir,Erasmir,Zalmir,Xarendris,Nysslorath,Eryaris,Erylorath,Erasendris,Eryquin,Urithendris,Nyssaris,Axalzorin,Eryzorin,Axalgoril,Nyssfeth,Adalquin,Nyssgoril,Xargoril,Urithgoril,Zalfeth,Axalindor,Eraslorath,Zalzorin,Nythfeth,Urithkris,Erasgoril,Axallorath,Adallorath,Erasquin,Xarindor,Nythindor,Urithlorath,Adalzorin,Xarfeth,Nyssquin,Xararis,Eryindor,Nythlorath,Axalaris,Urithindor,Selkaris,Axalmir,Selkgoril,Eraskris,Nythzorin,Urithquin,Uritharis,Zalgoril,Zalkris,Eryfeth,Adalkris,Selkzorin,Adalfeth,Selkendris,Nythquin,Adalaris,Selkkris,Urithmir
+
+N > y
+y > t,v,g,e,l,z,m,q,i,f,a,k
+o > r
+X > a
+Z > a
+m > i
+l > o,g,e,l,z,m,q,i,f,a,k
+s > s,g,e,l,z,m,q,i,f,a,k
+q > u
+k > r,g,e,l,z,m,q,i,f,a,k
+a > v,t,r,l,s
+z > o
+U > r
+E > r
+i > s,l,n,r,t
+g > o
+t > h
+n > d
+f > e
+x > v
+S > e
+A > x,d
+h > k,g,e,l,z,m,q,i,f,a
+r > i,g,e,l,a,z,m,q,f,k,v
+e > n,t,v
+u > i
+d > r,o,v

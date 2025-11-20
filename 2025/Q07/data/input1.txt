@@ -1,0 +1,16 @@
+Zorardith,Zoreth,Hazeth,Zorluth,Hazluth,Hazardith,Kyardith,Kyluth,Kyeth
+
+t > h
+l > u
+K > y
+a > r,b
+e > t
+d > i
+Z > o
+r > d,l,e,a
+u > t
+H > a
+i > t
+y > a,b
+o > b
+z > l,e,a
