@@ -19,25 +19,11 @@ print(f"A ::: {sol}")
 raw = open('data/input2.txt', 'r').read().strip()
 data = [int(n) for n in raw.split(',')]
 
-# Build list
-n = 3
-M = max(data)
-bounds = [0]
-while 4*n - 4 < M:
-    bounds.append(4*n - 4)
-    n += 1
-bounds.append(4*n - 4)
-
 def get_n_needed(n):
     if n <= 8:
         return 8 - n
     else:
-        if n % 4 == 1:
-            return 3
-        elif n % 4 == 3:
-            return 1
-        else:
-            return n % 4
+        return {0: 0, 1: 3, 2: 2, 3: 1}[n % 4]
 
 n_needed = [get_n_needed(n) for n in data]
 sol = sum(n_needed)
